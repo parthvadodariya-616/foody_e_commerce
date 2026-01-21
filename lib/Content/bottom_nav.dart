@@ -1,8 +1,8 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:foody_e_commerce/pages/ShoppingList.dart';
 import 'package:foody_e_commerce/pages/home.dart';
 import 'package:foody_e_commerce/pages/profile.dart';
+import 'package:foody_e_commerce/pages/shoppingList.dart';
 import 'package:foody_e_commerce/pages/wallet.dart';
 
 class BottomNav extends StatefulWidget {

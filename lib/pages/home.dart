@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:foody_e_commerce/pages/ShoppingList.dart';
 import 'package:foody_e_commerce/pages/details.dart';
+import 'package:foody_e_commerce/pages/shoppingList.dart';
 import 'package:foody_e_commerce/services/user_async_activity.dart';
 import 'package:foody_e_commerce/widgets/widget_support.dart';
 import 'package:liquid_pull_to_refresh/liquid_pull_to_refresh.dart';
